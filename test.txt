@@ -1,3 +1,7 @@
 Gitれんしゅう
 
 全体ワークフロー
+
+git add
+git commit
+
